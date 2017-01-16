@@ -4,10 +4,15 @@
 - NodeJS, NPM
 - NG2
 - Git
-- VisualkStudioCode
+- Visual Studio Code
+
+### Git
+
+### NG2
+Angular1, Angular2
 
 ### NodeJS, NPM
-### NG2
-### Git
-### VisualkStudioCode
+NPM - Node Packing Manager
+
+### Visual Studio Code
 
