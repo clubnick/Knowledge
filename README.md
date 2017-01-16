@@ -1,8 +1,13 @@
-# Knowledge"
+# Knowledge
 
-## Knowledge about development tools 
-- NPM
+## development tools 
+- NodeJS, NPM
 - NG2
 - Git
 - VisualkStudioCode
+
+### NodeJS, NPM
+### NG2
+### Git
+### VisualkStudioCode
 
