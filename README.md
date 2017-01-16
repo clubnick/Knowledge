@@ -1,6 +1,6 @@
-"# Knowledge" 
+# Knowledge"
 
-A knowledge about development tools 
+## Knowledge about development tools 
 - NPM
 - NG2
 - Git
